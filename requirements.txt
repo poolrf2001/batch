@@ -1,6 +1,8 @@
 annotated-types==0.7.0
 anyio==4.8.0
+chardet==5.2.0
 click==8.1.8
+et_xmlfile==2.0.0
 exceptiongroup==1.2.2
 fastapi==0.115.11
 greenlet==3.1.1
@@ -8,6 +10,7 @@ h11==0.14.0
 idna==3.10
 mysql-connector-python==9.2.0
 numpy==2.2.3
+openpyxl==3.1.5
 pandas==2.2.3
 pydantic==2.10.6
 pydantic_core==2.27.2
